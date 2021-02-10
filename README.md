@@ -1,1 +1,3 @@
 # MiniDojoGit
+
+- Andre Pinto
